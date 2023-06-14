@@ -26,14 +26,7 @@
 
 - ⚡ Fun fact **Google Was Up For Sale In 1999! LOL**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anmol-singh-0860b91b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anmol-singh-0860b91b6/" height="30" width="40" /></a>
-<a href="https://instagram.com/iamwhatiam0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamwhatiam0001" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anmol_algorist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anmol_algorist" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chalchalnikal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chalchalnikal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anmol_algorist7110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anmol_algorist7110" height="30" width="40" /></a>
-</p>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anmolalgorist7110&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
