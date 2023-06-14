@@ -35,6 +35,8 @@
 <a href="https://auth.geeksforgeeks.org/user/anmol_algorist7110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anmol_algorist7110" height="30" width="40" /></a>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anmolalgorist7110&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolalgorist7110&show_icons=true&locale=en&layout=compact" alt="anmolalgorist7110" /></p>
 
